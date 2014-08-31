@@ -11,7 +11,7 @@ Create a [virtualenv](http://virtualenv.readthedocs.org/en/latest/). On a mac, r
     virtualenv env
     source env/bin/activate
 
-On the newly create environment, ensure to have all the required dependencies:
+On the newly-created environment, ensure to have all the required dependencies:
 
     pip install django
     pip install pillow
